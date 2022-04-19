@@ -1,0 +1,10 @@
+{
+  "events": [
+    {
+      "id": 0,
+      "description": "Aula",
+      "date": "04-18-2022",
+      "hour": "10:30"
+    }
+  ]
+}
